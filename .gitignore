@@ -1,0 +1,4 @@
+runtime/
+cache/
+*.log
+.localchinese-translator-backup*/
